@@ -1,0 +1,8 @@
+3
+0 1 left 0 red
+1 0 left 0 blue
+2 -2 left 0 green
+2
+<= 1 0
+>= 0 0
+
